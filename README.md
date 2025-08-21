@@ -18,8 +18,6 @@ Permite testar portas de 1 a 1024.
 
 "java PortScanner localhost"
 
-//////////////////////////////////
-
 ## Funcionalidades
 
 - Teste de portas TCP
